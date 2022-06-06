@@ -1,0 +1,33 @@
+{
+  "name": "bionicreaderdesktop",
+  "productName": "Bionic Reader",
+  "version": "1.0.0",
+  "description": "A desktop app to read faster",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-installer": "electron-builder"
+  },
+  "build": {
+    "appId": "bionicreaderdesktop",
+    "win": {
+      "target": ["nsis"],
+      "icon": "BR-Image.png"
+    },
+    "nsis": {
+      "installerIcon": "BR-Image.png",
+      "uninstallerIcon": "BR-Image.png",
+      "uninstallDisplayName": "Bionic Reader"
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.1"
+  },
+  "dependencies": {
+
+  }
+}
