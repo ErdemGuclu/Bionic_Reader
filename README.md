@@ -6,7 +6,13 @@
 
 Bionic Reader is a desktop app created using Electron JS which helps users to read faster by making first few letters of each word bold in a text 
 
+## Screenshots
 
+![Uygulama Ekran Görüntüsü](https://d1vg9wkrun3t3k.cloudfront.net/users/2972ef08-b7ab-4d52-a731-2c59d157567b/forever_files/120aab0f-68c9-4a3a-b0a1-3b3258f0700f/original.png?format=jpg&width=1920&height=1023&quality=85)
+
+![Uygulama Ekran Görüntüsü](https://d1vg9wkrun3t3k.cloudfront.net/users/2972ef08-b7ab-4d52-a731-2c59d157567b/forever_files/3e3fec04-b1ba-4a01-8be9-cd10a5335853/original.png?format=jpg&width=1920&height=1024&quality=85)
+
+![Uygulama Ekran Görüntüsü](https://d1vg9wkrun3t3k.cloudfront.net/users/2972ef08-b7ab-4d52-a731-2c59d157567b/forever_files/868fab6d-6fd1-4290-95a7-a92645650a15/original.png?format=jpg&width=1920&height=1024&quality=85)
 
 ## How to install?
 
